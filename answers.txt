@@ -1,2 +1,2 @@
 What is a remote repository?
-A remote repository is an external repository you can only access through git which your computer communicates with in order to clone and push files onto it. 
+A remote repository is an external repository you can only access through git. Your computer communicates with in order to clone it into a local repository or push files onto it. 
